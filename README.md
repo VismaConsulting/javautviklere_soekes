@@ -1,2 +1,2 @@
-# help_us
-We need pull requests to make our code compile.
+# Seniorutviklere søkes
+Gi oss pull requests for å få koden vår til å kompilere.
